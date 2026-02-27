@@ -351,13 +351,11 @@ Para instalarlo basta con seguir las instrucciones de su página oficial:
 
 [https://pip.pypa.io/](https://pip.pypa.io/en/stable/installation/)
 
-![Imagen_pypa](/checkpoint_5/images/pypa_img.png)
-![Imagen_pypa](https://github.com/vegajud/checkpoint_5/images/pypa_img.png)
 ![Imagen_pypa](https://github.com/vegajud/checkpoint_5/blob/main/images/pypa_img.png)
 
 Una vez instalado, se puede comprobar su versión de la siguiente manera:
 
-![Imagen_version](/checkpoint_5/images/pip_version.jpeg)
+![Imagen_version](https://github.com/vegajud/checkpoint_5/blob/main/images/pip_version.jpeg)
 
 Con PIP podrán instalarse paquetes así:
 ```
