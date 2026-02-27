@@ -351,11 +351,11 @@ Para instalarlo basta con seguir las instrucciones de su página oficial:
 
 [https://pip.pypa.io/](https://pip.pypa.io/en/stable/installation/)
 
-![Imagen_pypa](/Users/juditvega/Desktop/Cursos/programacion_2/checkpoints/checkpoint_5/images/pypa_img.png)
+![Imagen_pypa](/checkpoint_5/images/pypa_img.png)
 
 Una vez instalado, se puede comprobar su versión de la siguiente manera:
 
-![Imagen_version](/Users/juditvega/Desktop/Cursos/programacion_2/checkpoints/checkpoint_5/images/pip_version.jpeg)
+![Imagen_version](/checkpoint_5/images/pip_version.jpeg)
 
 Con PIP podrán instalarse paquetes así:
 ```
